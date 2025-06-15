@@ -76,7 +76,7 @@ This project predicts the price of diamonds based on their physical and quality 
 ## 🚀 How to Run
 
 1. Clone this repository  
-   `git clone https://github.com/<your-username>/diamond-price-prediction.git`
+   `git clone https://github.com/aarshdesai-ds/diamond-price-prediction.git`
 2. Launch the notebook  
    `jupyter notebook DiamondPricePrediction.ipynb`
 3. Run all cells to reproduce the workflow and results
